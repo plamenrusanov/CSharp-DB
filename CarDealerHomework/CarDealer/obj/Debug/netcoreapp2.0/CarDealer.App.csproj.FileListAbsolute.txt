@@ -1,0 +1,16 @@
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.App.deps.json
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.App.runtimeconfig.json
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.App.runtimeconfig.dev.json
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.App.dll
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.App.pdb
+C:\C#DB\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.App.csprojAssemblyReference.cache
+C:\C#DB\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.App.csproj.CoreCompileInputs.cache
+C:\C#DB\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.App.AssemblyInfoInputs.cache
+C:\C#DB\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.App.AssemblyInfo.cs
+C:\C#DB\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.App.dll
+C:\C#DB\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.App.pdb
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Models.dll
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+C:\C#DB\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Models.pdb
+C:\C#DB\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.App.csproj.CopyComplete
