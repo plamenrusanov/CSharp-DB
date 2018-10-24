@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\C#DB\PhotoShare\Backup\PhotoShare.Services\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Contracts\NewFolder\**" />
+    <EmbeddedResource Remove="Contracts\NewFolder\**" />
+    <None Remove="Contracts\NewFolder\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="automapper" Version="7.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PhotoShare.Data\PhotoShare.Data.csproj" />
+  </ItemGroup>
+</Project>

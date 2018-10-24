@@ -1,9 +1,0 @@
-C:\C#DB\CarDealerHomework\CarDealer.Models\bin\Debug\netcoreapp2.0\CarDealer.Models.deps.json
-C:\C#DB\CarDealerHomework\CarDealer.Models\bin\Debug\netcoreapp2.0\CarDealer.Models.dll
-C:\C#DB\CarDealerHomework\CarDealer.Models\bin\Debug\netcoreapp2.0\CarDealer.Models.pdb
-C:\C#DB\CarDealerHomework\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.csprojAssemblyReference.cache
-C:\C#DB\CarDealerHomework\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.csproj.CoreCompileInputs.cache
-C:\C#DB\CarDealerHomework\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.AssemblyInfoInputs.cache
-C:\C#DB\CarDealerHomework\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.AssemblyInfo.cs
-C:\C#DB\CarDealerHomework\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.dll
-C:\C#DB\CarDealerHomework\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.pdb
